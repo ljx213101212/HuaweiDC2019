@@ -1,4 +1,5 @@
 application/cache
 datasets/garbage_classify
+data_complete_scripts/downloads
 #Important
 credentials.csv
